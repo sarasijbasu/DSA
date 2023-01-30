@@ -1,5 +1,16 @@
 #include <iostream>
 using namespace std;
+
+// 123456789
+// 12345678
+// 1234567
+// 123456
+// 12345
+// 1234
+// 123
+// 12
+// 1
+// This should be the output for row = 9
 int main()
 {
     int no_of_rows;
