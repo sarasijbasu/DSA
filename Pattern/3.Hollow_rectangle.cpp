@@ -1,6 +1,21 @@
 #include <iostream>
 using namespace std;
 int main()
+
+// *************
+// *           *
+// *           *
+// *           *
+// *           *
+// *           *
+// *           *
+// *           *
+// *           *
+// *           *
+// *           *
+// *************
+// output should be like this for 12 rows and 13 columns
+
 {
     int row_no, col_no;
     cout << "Enter Number of Rows and Number of Columns : " << endl;
