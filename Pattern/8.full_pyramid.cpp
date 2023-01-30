@@ -1,5 +1,16 @@
 #include <iostream>
 using namespace std;
+
+//         * 
+//        * *
+//       * * *
+//      * * * *
+//     * * * * *
+//    * * * * * *
+//   * * * * * * *
+//  * * * * * * * * 
+// * * * * * * * * *
+// Output should be like this for 9 rows
 int main()
 {
     int no_of_rows;
