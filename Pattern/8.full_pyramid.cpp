@@ -10,9 +10,9 @@ int main()
         // code for printing space
         for (int i = 0; i < no_of_rows - 1 - row; i++)
         {
-            /* code */
             cout << " ";
         }
+        //code for printing star
         for (int j = 0; j < row + 1; j++)
         {
             cout << "* ";
